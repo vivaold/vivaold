@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @vivaold
 - 👀 I’m interested in a nothing 
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on microsoft 
-- 📫 How to reach mecome to india
 
 
 <!---
